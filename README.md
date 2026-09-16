@@ -1,5 +1,5 @@
 # ELYABA_NADIA_Ex1_Approche
-Nom & Prénom: Nadia Elyaba
+Nom & Prénom: Nadia Elyaba 
 Filière: Développement Digital (Option Web Full Stack)
 Module: M202 - Approche Agile
 
@@ -21,7 +21,7 @@ Ce sont les limites ou exigences du projet concernant les délais, la qualité, 
 - Incertitude: Un projet comporte des risques et des éléments imprévisibles.
 - Collaboration: Nécessite le travail d'une équipe multidisciplinaire.
 - Objectif / Résultat: Vise à atteindre des livrables précis.
-- Complexité: Implique la *coordination de multiples tâches interdépendantes.
+- Complexité: Implique la coordination de multiples tâches interdépendantes.
 
 5. Différence entre Activité Quotidienne et Projet (Plan C)
 
