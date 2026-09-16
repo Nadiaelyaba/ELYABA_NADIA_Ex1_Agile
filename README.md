@@ -27,3 +27,4 @@ Ce sont les limites ou exigences du projet concernant les délais, la qualité, 
 
 - Activité quotidienne: C'est une tâche répétitive effectuée chaque jour de manière routinière.
 - Projet: C'est un ensemble de tâches différentes et temporaires visant à créer un produit ou un service unique.
+
